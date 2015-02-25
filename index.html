@@ -1,0 +1,30 @@
+<!<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+<h1>Instructions for running code</h1>
+<p>Data files are hosted, so copy paste the following code into the JavaScript console to run the script:</p>
+<pre><code>$.getJSON("initial_lab_results.json", function (JSON) {
+  console.log("Initial lab file loaded... now sorting out data");
+  obj.getResults(JSON);
+  console.log("Done sorting out data.");
+  console.log(obj.findLastThree(126));
+  console.log(obj.findLastThree(10540));
+  console.log(obj.findLastThree(1245));
+
+  $.getJSON("new_lab_results.json", function (JSON) {
+    console.log("New lab file loaded... now sorting out data");
+    obj.getResults(JSON);
+    console.log("Done sorting out data.");
+    console.log(obj.findLastThree(1245));
+    console.log(obj.findLastThree(119));
+  });
+});</code>
+<p>Beware that the initial file is 30MB in size with 260,000 entries, so loading it takes some time and patience :( </p>
+
+<script type="text/javascript" src="jquery-2.1.3.min.js"></script>
+<script type="text/javascript" src="importantAssignment.js"></script>
+</body>
+</html>

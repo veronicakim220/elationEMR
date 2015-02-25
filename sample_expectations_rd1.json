@@ -1,0 +1,16 @@
+[
+    {
+        "result_id": 126, 
+        "last_three_values": [{"date": "1984-09-12 23:47:55", "result_id": 200, "name": "HDL", "value": 40, "patient_id": 1000000}, {"date": "1984-07-17 09:08:30", "result_id": 131, "name": "HDL", "value": 50, "patient_id": 1000000}, {"date": "1984-07-03 06:29:07", "result_id": 48, "name": "HDL", "value": 52, "patient_id": 1000000}]
+        
+    },
+    {
+        "result_id": 10540,
+        "last_three_values": [{"date": "2009-11-15 20:24:34", "result_id": 10708, "name": "Triglycerides", "value": 443, "patient_id": 1000008}, {"date": "2009-09-22 13:22:15", "result_id": 10645, "name": "Triglycerides", "value": 260, "patient_id": 1000008}, {"date": "2009-09-06 16:39:43", "result_id": 10663, "name": "Triglycerides", "value": 416, "patient_id": 1000008}]
+        
+    },
+    {
+        "result_id": 1245,
+        "last_three_values": [{"date": "1995-02-16 15:25:26", "result_id": 1446, "name": "HDL", "value": 10, "patient_id": 1000001}, {"date": "1995-02-16 09:02:57", "result_id": 1300, "name": "HDL", "value": 55, "patient_id": 1000001}, {"date": "1994-12-13 14:27:16", "result_id": 1368, "name": "HDL", "value": 12, "patient_id": 1000001}]
+    }
+]

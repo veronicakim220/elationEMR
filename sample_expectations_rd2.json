@@ -1,0 +1,10 @@
+[
+    {
+        "result_id": 1245, 
+        "last_three_values": [{"date": "1995-02-22 20:28:55", "result_id": 240018, "name": "HDL", "value": 14, "patient_id": 1000001}, {"date": "1995-02-16 15:25:26", "result_id": 1446, "name": "HDL", "value": 10, "patient_id": 1000001}, {"date": "1995-02-16 09:02:57", "result_id": 1300, "name": "HDL", "value": 55, "patient_id": 1000001}]
+    },
+    {
+        "result_id": 119,
+        "last_three_values": [{"date": "2009-04-27 04:37:48", "result_id": 240002, "name": "HDL", "value": 53, "patient_id": 1000000}, {"date": "2009-04-03 23:30:31", "result_id": 176, "name": "HDL", "value": 22, "patient_id": 1000000}, {"date": "2009-02-21 02:54:29", "result_id": 240005, "name": "HDL", "value": 56, "patient_id": 1000000}]
+    }
+]
